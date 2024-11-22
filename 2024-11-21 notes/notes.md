@@ -1,0 +1,2 @@
+aztec silly wallet
+work on silly aztec wallet. use email and password for encryption not signing keys. for signing keys keep private rsa private/public key pairs that do the signing for the silly account. 
